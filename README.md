@@ -10,6 +10,6 @@ This repository contains the privacy policy pages for the Vocany app.
 ## GitHub Pages
 
 This repository is configured for GitHub Pages. The privacy policy is available at:
-- Chinese: `https://你的用户名.github.io/vocany-privacy/privacy-policy.html`
-- English: `https://你的用户名.github.io/vocany-privacy/privacy-policy-en.html`
+- Chinese: `https://zhengyu-tian.github.io/vocany-privacy/privacy-policy.html`
+- English: `https://zhengyu-tian.github.io/vocany-privacy/privacy-policy-en.html`
 
